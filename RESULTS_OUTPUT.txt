@@ -1,0 +1,215 @@
+IMAGE NAME: Mega_1.jpg
+LOTTO NAME: Mega Millions
+Lottery Date: 03-29-2022
+Lottery Ticket Numbers:
+1st Number: ['06', '37', '42', '55', '62']
+Lottery Ticket Ball: ['11']
+Lottery Ticket Multiplier: Yes
+------      ------
+Winning Numbers: ['07', '22', '36', '45', '47']
+Winning ball: 12
+Winning Multiplier: 2
+------      ------
+Matches
+[(0, 0)]
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Mega_3.jpg
+LOTTO NAME: Mega Millions
+Lottery Date: 07-27-2021
+Lottery Ticket Numbers:
+1st Number: ['05', '16', '43', '45', '70']
+2st Number: ['08', '19', '25', '54', '64']
+3st Number: ['01', '16', '38', '47', '69']
+4st Number: ['04', '17', '32', '34', '67']
+5st Number: ['03', '05', '18', '37', '45']
+Lottery Ticket Ball: ['09', '06', '06', '16', '20']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['02', '35', '36', '54', '64']
+Winning ball: 11
+Winning Multiplier: 3
+------      ------
+Matches
+1st Number match: 0, 1st ball match: 0
+2st Number match: 2, 2st ball match: 0
+3st Number match: 0, 3st ball match: 0
+4st Number match: 0, 4st ball match: 0
+5st Number match: 0, 5st ball match: 0
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Power_1.jpg
+LOTTO NAME: Powerball
+Lottery Date: 12-27-2021
+Lottery Ticket Numbers:
+1st Number: ['17', '33', '35', '48', '59']
+Lottery Ticket Ball: ['16']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['36', '38', '45', '62', '64']
+Winning ball: 19
+Winning Multiplier: 2
+------      ------
+Matches
+[(0, 0)]
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Power_2.jpg
+LOTTO NAME: Powerball
+Lottery Date: 04-06-2022
+Lottery Ticket Numbers:
+1st Number: ['22', '29', '32', '53', '55']
+2st Number: ['13', '29', '47', '51', '63']
+Lottery Ticket Ball: ['25', '13']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['06', '42', '45', '47', '64']
+Winning ball: 18
+Winning Multiplier: 3
+------      ------
+Matches
+1st Number match: 0, 1st ball match: 0
+2st Number match: 1, 2st ball match: 0
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Mega_2.jpg
+LOTTO NAME: Mega Millions
+Lottery Date: 02-04-2022
+Lottery Ticket Numbers:
+1st Number: ['10', '12', '35', '54', '60']
+2st Number: ['06', '11', '26', '27', '41']
+Lottery Ticket Ball: ['02', '15']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['07', '16', '34', '44', '61']
+Winning ball: 24
+Winning Multiplier: 4
+------      ------
+Matches
+1st Number match: 0, 1st ball match: 0
+2st Number match: 0, 2st ball match: 0
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Mega_4.jpg
+LOTTO NAME: Mega Millions
+Lottery Date: 01-11-2022
+Lottery Ticket Numbers:
+1st Number: ['19', '37', '44', '46', '52']
+2st Number: ['04', '10', '20', '33', '60']
+3st Number: ['40', '54', '60', '63', '68']
+Lottery Ticket Ball: ['17', '06', '12']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['02', '03', '19', '52', '58']
+Winning ball: 16
+Winning Multiplier: 2
+------      ------
+Matches
+1st Number match: 2, 1st ball match: 0
+2st Number match: 0, 2st ball match: 0
+3st Number match: 0, 3st ball match: 0
+1st Number match: 2, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Power_3.jpg
+LOTTO NAME: Powerball
+Lottery Date: 10-11-2021
+Lottery Ticket Numbers:
+1st Number: ['24', '26', '46', '52', '67']
+2st Number: ['12', '38', '41', '46', '58']
+3st Number: ['05', '14', '23', '36', '66']
+4st Number: ['43', '45', '54', '64', '67']
+5st Number: ['23', '28', '50', '61', '64']
+Lottery Ticket Ball: ['09', '04', '04', '07', '24']
+Lottery Ticket Multiplier: Yes
+------      ------
+Winning Numbers: ['11', '20', '33', '39', '65']
+Winning ball: 24
+Winning Multiplier: 3
+------      ------
+Matches
+1st Number match: 0, 1st ball match: 0
+2st Number match: 0, 2st ball match: 0
+3st Number match: 0, 3st ball match: 0
+4st Number match: 0, 4st ball match: 0
+5st Number match: 0, 5st ball match: 1
+1st Number match: 0, 1st ball match: 0
+------      ------
+__   _____  _   _  __        _____  _   _   _ 
+\ \ / / _ \| | | | \ \      / / _ \| \ | | | |
+ \ V / | | | | | |  \ \ /\ / / | | |  \| | | |
+  | || |_| | |_| |   \ V  V /| |_| | |\  | |_|
+  |_| \___/ \___/     \_/\_/  \___/|_| \_| (_)
+                                              
+
+$$$ PRIZE WON $$$: $12
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Power_4.jpg
+LOTTO NAME: Powerball
+Lottery Date: 11-27-2021
+Lottery Ticket Numbers:
+1st Number: ['09', '39', '43', '44', '52']
+2st Number: ['04', '25', '26', '29', '61']
+3st Number: ['24', '50', '54', '55', '63']
+Lottery Ticket Ball: ['17', '09', '03']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['08', '32', '55', '64', '66']
+Winning ball: 10
+Winning Multiplier: 2
+------      ------
+Matches
+1st Number match: 0, 1st ball match: 0
+2st Number match: 0, 2st ball match: 0
+3st Number match: 1, 3st ball match: 0
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Power_5.jpg
+LOTTO NAME: Powerball
+Lottery Date: 03-28-2022
+Lottery Ticket Numbers:
+1st Number: ['41', '45', '55', '57', '64']
+Lottery Ticket Ball: ['26']
+Lottery Ticket Multiplier: No
+------      ------
+Winning Numbers: ['11', '18', '39', '58', '62']
+Winning ball: 03
+Winning Multiplier: 2
+------      ------
+Matches
+[(0, 0)]
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+IMAGE NAME: Mega_5.jpg
+LOTTO NAME: Mega Millions
+Lottery Date: 10-29-2021
+Lottery Ticket Numbers:
+1st Number: ['08', '24', '32', '38', '62']
+Lottery Ticket Ball: ['17']
+Lottery Ticket Multiplier: Yes
+------      ------
+Winning Numbers: ['15', '26', '28', '35', '45']
+Winning ball: 04
+Winning Multiplier: 3
+------      ------
+Matches
+[(0, 0)]
+1st Number match: 0, 1st ball match: 0
+------      ------
+No prizes won yet: 0
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
